@@ -1,0 +1,21 @@
+@import "~normalize.css";
+@import 'fonts.css';
+
+.container {
+    padding: 0 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.webpack-logo {
+    background-image: url(../images/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png);
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
